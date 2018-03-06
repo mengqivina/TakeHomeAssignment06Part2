@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         int iiii= 15;
     }
 
+    String PullRequest= "PullRequest01";
+
     String test= "Test";
 
     boolean True= false;
