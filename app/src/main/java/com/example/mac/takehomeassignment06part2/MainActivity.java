@@ -18,4 +18,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     String test= "Test";
+
+    boolean True= false;
 }
